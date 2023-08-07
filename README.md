@@ -47,6 +47,10 @@ To access and interact with the Reliance Mart Sales Dashboard, follow these step
 ## Contributions
 -----------------
 
+Gaytri Sran
+
+ - LinkedIn - [@GaytriSran](https://www.linkedin.com/in/gaytri-sran-gs14/)
+
 We welcome contributions to enhance the Reliance Mart Sales Dashboard. If you have any ideas for improvement, new features, or bug fixes, please feel free to submit a pull request or open an issue in the GitHub repository.
 
 ## License
