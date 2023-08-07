@@ -1,8 +1,10 @@
 # Reliance Mart Sales Dashboard
+-----------------
 
 Welcome to the Reliance Mart Sales Dashboard project! In this analysis, we have explored two CSV files, Orders and Details, to create an insightful Power BI dashboard showcasing the sales performance of Reliance Mart. The dashboard provides data based on the quarter of the year and the state of our country. Various interactive charts, including donut charts, slicers, and stack charts, are utilized to present key metrics such as the sum of the average value, profit, and quantity.
 
 ## Dashboard Overview
+-----------------
 
 Our Power BI dashboard offers a comprehensive view of Reliance Mart's sales performance, allowing stakeholders to make data-driven decisions. The dashboard's key features include:
 
@@ -13,6 +15,7 @@ Our Power BI dashboard offers a comprehensive view of Reliance Mart's sales perf
 - **Various Charts:** The dashboard incorporates a variety of charts, including donut charts, slicers, and stack charts, to provide visual representations of critical sales metrics.
 
 ## Files Overview
+-----------------
 
 Here is a quick overview of the files used in this project:
 
@@ -23,6 +26,7 @@ Here is a quick overview of the files used in this project:
 - **RelianceDashboard.pbix:** This Power BI file holds the entire dashboard configuration and visualization settings. To explore the dashboard, you need to open this file using Power BI.
 
 ## Dashboard Preview
+-----------------
 
 Below are two preview images of the dashboard:
 
@@ -30,6 +34,7 @@ Below are two preview images of the dashboard:
 - ![Result2.png](./Result2.png) - Data for state West Bengal and Quarter-3.
 
 ## How to Use
+-----------------
 
 To access and interact with the Reliance Mart Sales Dashboard, follow these steps:
 
@@ -40,10 +45,12 @@ To access and interact with the Reliance Mart Sales Dashboard, follow these step
 3. **Explore Data:** Use the interactive features of the dashboard to explore sales data for different quarters and states. Hover over charts, click on slicers, and explore the insights provided.
 
 ## Contributions
+-----------------
 
 We welcome contributions to enhance the Reliance Mart Sales Dashboard. If you have any ideas for improvement, new features, or bug fixes, please feel free to submit a pull request or open an issue in the GitHub repository.
 
 ## License
+-----------------
 
 This project is provided under the MIT License. Refer to the `LICENSE` file for more details.
 
